@@ -1,4 +1,5 @@
 # 💫 About Me:
+# 💫 About Me:
 📚Sou estudante de Emgenharia da Computação. <br>Eu estou a procura de um estagio, com intuito de prender e me aprofundar <br>na área de desenvolvimento e programação web. Estou disposto a <br>aprender sobre novas tecnologias e metodos de trabalho. Estou disposto <br>a trabalhar em equipe e gerar uma boa interação entre meus colegas , <br>com o intuito de me aprimorar e somar.<br>
 
 
@@ -11,9 +12,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=JM-Aguiar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JM-Aguiar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JM-Aguiar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JM-Aguiar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JM-Aguiar&icon=2&color=0)](https://visitcount.itsvg.in)
