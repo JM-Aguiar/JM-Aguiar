@@ -1,5 +1,4 @@
 # 💫 About Me:
-# 💫 About Me:
 📚Sou estudante de Emgenharia da Computação. <br>Eu estou a procura de um estagio, com intuito de prender e me aprofundar <br>na área de desenvolvimento e programação web. Estou disposto a <br>aprender sobre novas tecnologias e metodos de trabalho. Estou disposto <br>a trabalhar em equipe e gerar uma boa interação entre meus colegas , <br>com o intuito de me aprimorar e somar.<br>
 
 
